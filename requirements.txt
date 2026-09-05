@@ -1,0 +1,5 @@
+beautifulsoup4>=4.12
+lxml>=5.0
+nltk>=3.8
+pytest>=7.4
+flask>=3.0
